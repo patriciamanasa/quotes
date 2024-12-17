@@ -1,0 +1,19 @@
+h1{
+  font-family: "Anton", sans-serif;
+  font-size: 80px !important;
+  margin: 54px 0px !important;
+}
+p{
+  font-size: 35px;
+  margin: 35px 0px;
+  font-family:none ;
+}
+button{
+  background-color:blue !important;
+  width: 250px;
+  height: 80px;
+  font-size: 20px !important;
+}
+button:hover{
+  background-color: green !important;
+}
